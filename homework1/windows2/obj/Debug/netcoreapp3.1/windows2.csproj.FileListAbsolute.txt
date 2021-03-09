@@ -1,0 +1,15 @@
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\bin\Debug\netcoreapp3.1\windows2.exe
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\bin\Debug\netcoreapp3.1\windows2.deps.json
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\bin\Debug\netcoreapp3.1\windows2.runtimeconfig.json
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\bin\Debug\netcoreapp3.1\windows2.runtimeconfig.dev.json
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\bin\Debug\netcoreapp3.1\windows2.dll
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\bin\Debug\netcoreapp3.1\windows2.pdb
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.csprojAssemblyReference.cache
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.Form1.resources
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.csproj.GenerateResource.cache
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.AssemblyInfoInputs.cache
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.AssemblyInfo.cs
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.csproj.CoreCompileInputs.cache
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.dll
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.pdb
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\windows2\obj\Debug\netcoreapp3.1\windows2.genruntimeconfig.cache
