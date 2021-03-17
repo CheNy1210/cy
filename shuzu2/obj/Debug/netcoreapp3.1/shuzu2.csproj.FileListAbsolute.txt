@@ -1,0 +1,13 @@
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\bin\Debug\netcoreapp3.1\shuzu2.exe
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\bin\Debug\netcoreapp3.1\shuzu2.deps.json
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\bin\Debug\netcoreapp3.1\shuzu2.runtimeconfig.json
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\bin\Debug\netcoreapp3.1\shuzu2.runtimeconfig.dev.json
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\bin\Debug\netcoreapp3.1\shuzu2.dll
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\bin\Debug\netcoreapp3.1\shuzu2.pdb
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\obj\Debug\netcoreapp3.1\shuzu2.csprojAssemblyReference.cache
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\obj\Debug\netcoreapp3.1\shuzu2.AssemblyInfoInputs.cache
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\obj\Debug\netcoreapp3.1\shuzu2.AssemblyInfo.cs
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\obj\Debug\netcoreapp3.1\shuzu2.csproj.CoreCompileInputs.cache
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\obj\Debug\netcoreapp3.1\shuzu2.dll
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\obj\Debug\netcoreapp3.1\shuzu2.pdb
+C:\Users\陈禹\Desktop\学习\大二下学习\c#作业\homework2\shuzu2\obj\Debug\netcoreapp3.1\shuzu2.genruntimeconfig.cache
