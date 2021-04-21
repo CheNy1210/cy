@@ -1,0 +1,13 @@
+C:\Users\陈禹\source\repos\homework4\lambda1\bin\Debug\netcoreapp3.1\linkedlist1.exe
+C:\Users\陈禹\source\repos\homework4\lambda1\bin\Debug\netcoreapp3.1\linkedlist1.deps.json
+C:\Users\陈禹\source\repos\homework4\lambda1\bin\Debug\netcoreapp3.1\linkedlist1.runtimeconfig.json
+C:\Users\陈禹\source\repos\homework4\lambda1\bin\Debug\netcoreapp3.1\linkedlist1.runtimeconfig.dev.json
+C:\Users\陈禹\source\repos\homework4\lambda1\bin\Debug\netcoreapp3.1\linkedlist1.dll
+C:\Users\陈禹\source\repos\homework4\lambda1\bin\Debug\netcoreapp3.1\linkedlist1.pdb
+C:\Users\陈禹\source\repos\homework4\lambda1\obj\Debug\netcoreapp3.1\linkedlist1.csprojAssemblyReference.cache
+C:\Users\陈禹\source\repos\homework4\lambda1\obj\Debug\netcoreapp3.1\linkedlist1.AssemblyInfoInputs.cache
+C:\Users\陈禹\source\repos\homework4\lambda1\obj\Debug\netcoreapp3.1\linkedlist1.AssemblyInfo.cs
+C:\Users\陈禹\source\repos\homework4\lambda1\obj\Debug\netcoreapp3.1\linkedlist1.csproj.CoreCompileInputs.cache
+C:\Users\陈禹\source\repos\homework4\lambda1\obj\Debug\netcoreapp3.1\linkedlist1.dll
+C:\Users\陈禹\source\repos\homework4\lambda1\obj\Debug\netcoreapp3.1\linkedlist1.pdb
+C:\Users\陈禹\source\repos\homework4\lambda1\obj\Debug\netcoreapp3.1\linkedlist1.genruntimeconfig.cache

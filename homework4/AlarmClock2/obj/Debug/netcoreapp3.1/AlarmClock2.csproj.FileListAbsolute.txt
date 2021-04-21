@@ -1,0 +1,13 @@
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\bin\Debug\netcoreapp3.1\AlarmClock2.exe
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\bin\Debug\netcoreapp3.1\AlarmClock2.deps.json
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\bin\Debug\netcoreapp3.1\AlarmClock2.runtimeconfig.json
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\bin\Debug\netcoreapp3.1\AlarmClock2.runtimeconfig.dev.json
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\bin\Debug\netcoreapp3.1\AlarmClock2.dll
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\bin\Debug\netcoreapp3.1\AlarmClock2.pdb
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\obj\Debug\netcoreapp3.1\AlarmClock2.csprojAssemblyReference.cache
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\obj\Debug\netcoreapp3.1\AlarmClock2.AssemblyInfoInputs.cache
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\obj\Debug\netcoreapp3.1\AlarmClock2.AssemblyInfo.cs
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\obj\Debug\netcoreapp3.1\AlarmClock2.csproj.CoreCompileInputs.cache
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\obj\Debug\netcoreapp3.1\AlarmClock2.dll
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\obj\Debug\netcoreapp3.1\AlarmClock2.pdb
+C:\Users\陈禹\source\repos\homework4\AlarmClock2\obj\Debug\netcoreapp3.1\AlarmClock2.genruntimeconfig.cache
