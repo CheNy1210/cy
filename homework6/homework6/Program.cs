@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Xml.Serialization;
 
-namespace exercise20200320
+namespace homework6
 {
     class Program
     {
