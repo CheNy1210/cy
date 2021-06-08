@@ -1,0 +1,9 @@
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\bin\Debug\CrawlerForm.exe.config
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\bin\Debug\CrawlerForm.exe
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\bin\Debug\CrawlerForm.pdb
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\obj\Debug\CrawlerForm.csprojAssemblyReference.cache
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\obj\Debug\CrawlerForm.Form1.resources
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\obj\Debug\CrawlerForm.Properties.Resources.resources
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\obj\Debug\CrawlerForm.csproj.GenerateResource.cache
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\obj\Debug\CrawlerForm.exe
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW10\CocurrentCrawler\CrawlerForm\obj\Debug\CrawlerForm.pdb

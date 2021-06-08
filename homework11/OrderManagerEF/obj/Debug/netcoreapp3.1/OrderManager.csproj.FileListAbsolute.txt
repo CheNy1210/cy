@@ -1,0 +1,3 @@
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW11\OrderManagerEF\obj\Debug\netcoreapp3.1\OrderManager.csprojAssemblyReference.cache
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW11\OrderManagerEF\obj\Debug\netcoreapp3.1\OrderManager.AssemblyInfoInputs.cache
+C:\Users\86199\Desktop\CSharpHomeWork-master\CSharpHomeWork-master\HW11\OrderManagerEF\obj\Debug\netcoreapp3.1\OrderManager.AssemblyInfo.cs
