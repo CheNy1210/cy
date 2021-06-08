@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winformsapp2", "winformsapp2\winformsapp2.csproj", "{688392E3-9199-499A-881D-6C18A33D8590}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5} = {CA98A8E0-9173-4C2A-8629-C3A8512286C5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{CA98A8E0-9173-4C2A-8629-C3A8512286C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688392E3-9199-499A-881D-6C18A33D8590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688392E3-9199-499A-881D-6C18A33D8590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688392E3-9199-499A-881D-6C18A33D8590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688392E3-9199-499A-881D-6C18A33D8590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA98A8E0-9173-4C2A-8629-C3A8512286C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC1F6330-87D8-4CF0-8870-DD5AA1C19DD6}
+	EndGlobalSection
+EndGlobal
